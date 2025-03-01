@@ -40,7 +40,7 @@ The dashboard is designed for:
 ---
 
 ## 📌 Resources
-- **Dataset:** [Download Here](#)
+- **Dataset:** [Download Here](https://github.com/bibrilliancetamil/powerbi-sales-performance-dashboard/blob/main/Sales_Data_10K.xlsx)
 - **Power BI File (.pbix):** [Download Here](#)
 - **YouTube Tutorial Series:** [Watch Here](#)
 
