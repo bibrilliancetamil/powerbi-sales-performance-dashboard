@@ -42,7 +42,7 @@ The dashboard is designed for:
 ## 📌 Resources
 - **Dataset:** [Download Here](https://github.com/bibrilliancetamil/powerbi-sales-performance-dashboard/blob/main/Sales_Data_10K.xlsx)
 - **Power BI File (.pbix):** [Download Here](#)
-- **YouTube Tutorial Series:** [Watch Here]([#](https://www.youtube.com/playlist?list=PL5c7Je8TkLOvMwRg3s9goWGm_ZRllQ_56))
+- **YouTube Tutorial Series:** [Watch Here](https://www.youtube.com/playlist?list=PL5c7Je8TkLOvMwRg3s9goWGm_ZRllQ_56)
 - **Subscribe to My Channel:** [Subscribe](https://www.youtube.com/channel/UC_Xj4WopSDFuGI-gDE-PHjQ?sub_confirmation=1)
 
 🚀 **Follow this project to build a professional Power BI Sales Dashboard!**
