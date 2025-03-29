@@ -22,11 +22,11 @@ The dashboard is designed for:
 ---
 
 ## 📌 Dashboard Features
-[]✅ **Sales Overview** – A high-level summary of total sales, profit, and key metrics.
-✅ **Monthly & Yearly Sales Trends** – Line and bar charts to analyze growth over time.
-✅ **Top Customers & Products** – Identifying the most valuable customers and best-selling products.
-✅ **Profit & Revenue Analysis** – Insights into profitability across different categories.
-✅ **Dynamic Filters** – Interactive slicers for **Date, Region, Product Category**, and more.
+1.✅ **Sales Overview** – A high-level summary of total sales, profit, and key metrics.
+2.✅ **Monthly & Yearly Sales Trends** – Line and bar charts to analyze growth over time.
+3.✅ **Top Customers & Products** – Identifying the most valuable customers and best-selling products.
+4.✅ **Profit & Revenue Analysis** – Insights into profitability across different categories.
+5.✅ **Dynamic Filters** – Interactive slicers for **Date, Region, Product Category**, and more.
 
 ---
 
