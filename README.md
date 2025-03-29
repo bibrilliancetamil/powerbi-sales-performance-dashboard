@@ -22,7 +22,7 @@ The dashboard is designed for:
 ---
 
 ## 📌 Dashboard Features
-✅ **Sales Overview** – A high-level summary of total sales, profit, and key metrics.
+[]✅ **Sales Overview** – A high-level summary of total sales, profit, and key metrics.
 ✅ **Monthly & Yearly Sales Trends** – Line and bar charts to analyze growth over time.
 ✅ **Top Customers & Products** – Identifying the most valuable customers and best-selling products.
 ✅ **Profit & Revenue Analysis** – Insights into profitability across different categories.
